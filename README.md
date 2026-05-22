@@ -4,6 +4,18 @@
 
 I built this project with a practical mindset: **Focus on cashflow, stop financial loss, and save time for landlords.**
 
+## 👾 Live Demo
+
+https://hanoi-stay-project.vercel.app/
+
+## 🖼️ Interface Preview
+
+Here is a quick look at the core interfaces of the HANOI STAY platform:
+
+| Dashboard | Invoice System | Login Screen |
+| :---: | :---: | :---: |
+| ![Dashboard](images/dashboard.png) | ![Invoice](images/invoice.png) | ![Login](images/login.png) |
+
 ## 🛠️ Tech Stack
 
 * **Front-end:** Next.js 14 (App Router) - Fast, clean routing, easy to scale.
